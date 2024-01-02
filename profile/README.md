@@ -1,1 +1,1 @@
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![CodeForce Oswego](https://github.com/CodeForce-Education/.github/blob/main/images/codeforce.png)https://github.com/CodeForce-Education/.github/blob/main/images/codeforce.png) 
